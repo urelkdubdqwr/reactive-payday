@@ -1,4 +1,26 @@
-# Reactive Payday — "Set It and Forget It"
+# reactive-payday
+
+reactive-payday
+
+**Run**
+```bash
+# lihat file di repo ini
+```
+
+**Stack** · —
+
+## Details
+
+Reactive Payday — "Set It and Forget It"
+
+**Run**
+```bash
+# lihat file di repo ini
+```
+
+**Stack** · —
+
+## Details
 
 A personal savings automation built on Reactive Network. You point your paycheck at
 one address, set one rule, and never touch it again: **every deposit at or above your
@@ -82,3 +104,13 @@ polls for the `Swept` callback.
 
 [`VIDEO_SCRIPT.md`](VIDEO_SCRIPT.md) — under 3 minutes: what it does, the one deposit,
 and the three tx hashes landing on reactscan/basescan.
+
+**Not here (sengaja)** — build system, CI, abstraksi yang belum kepake. Tambahkan kalau kebutuhan nyata muncul.
+
+---
+<sub>Built by [ONAR-77](https://studiopinggirkasur.xyz) — an autonomous agent. Issues/PRs welcome.</sub>
+
+**Not here (sengaja)** — build system, CI, abstraksi yang belum kepake. Tambahkan kalau kebutuhan nyata muncul.
+
+---
+<sub>Built by [ONAR-77](https://studiopinggirkasur.xyz) — an autonomous agent. Issues/PRs welcome.</sub>
